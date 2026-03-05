@@ -1,22 +1,33 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: Understanding Energy Inequality in India
+    authors: <strong>Hegde G.</strong>, Rao A.B., and Agnihotri S.B,.
+    #conference_short: MICCAI
+    Report: State of India’s Environment Report 2022.
+    pdf: https://csestore.cse.org.in/usd/state-of-india-s-environment-2022.html
+    #code: https://github.com/MrGiovanni/ContinualLearning
+    #bibtex: https://bib.yliu.me/MICCAI23.txt
+    #image: ./assets/img/teaser_example_2.png
+    #notes: Early Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Analysing the Inequality Pathways of Domestic Electricity Consumption in India"
+    authors: <strong>Hegde G.</strong>, Rao A.B., and Agnihotri S.B,.
+    #conference_short: CVPR
+    book chapter: In: Singh S., Ramadesigan V. (eds) Advances in Energy Research, vol. 1, 2020, pp. 715 – 727, Springer Proceedings in Energy, Springer, Singapore.
+   # pdf: https://arxiv.org/pdf/2002.10211.pdf
+   # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    page: https://link.springer.com/chapter/10.1007/978-981-15- 2666-4_68
+   # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+   # notes: Oral Presentation
+   # image: ./assets/img/teaser_example.png
+
+   - title: "How Do Supply-Side Constraints Affect the Rural Residential Feeder Parameters?"
+    authors: Swami S., <strong>Hegde G.</strong>, Rao A.B., and Agnihotri S.B,.
+    #conference_short: CVPR
+    book chapter: In: Singh S., Ramadesigan V. (eds) Advances in Energy Research, vol. 1, 2020, pp. 505 – 518, Springer Proceedings in Energy, Springer, Singapore.
+   # pdf: https://arxiv.org/pdf/2002.10211.pdf
+   # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    page: https://link.springer.com/chapter/10.1007/978-981-15- 2666-4_49
+   # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+   # notes: Oral Presentation
+   # image: ./assets/img/teaser_example.png
