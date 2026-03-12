@@ -1,53 +1,44 @@
+## Good Morning!
+
+**Welcome to a small corner for said and unsaid words, stories, and everything else...**
+
+
 ---
 layout: home
-title: Home
+title: Happy Birthday!
+I still don't know how one gets born as a human. Of all the trillions of combinations and possibilities in the space-time continuum of this universe, it is phenomenal that we get to be humans. There must be something unique, something right that must have happened for us to be alive right here, right now. But, what is even more incredible in my life is not that I got to take birth as one of those humans, it is actually that you are also alive right here and right now and I got to meet you and be with you. That's just unbelievable. One of those rare things nobody believes if it doesn't happen to them, as did I. So, among all the astonishing phenomena that you have been, you are and you will be, your birth was a thankful beginning. May you have many more such beginnings! And I may get to witness that. Happy Birthday! 
 ---
 
-# Welcome.
-
-[cite_start]I am **Ganesh Hegde**, a researcher and explorer of systems—both the technical ones that power our world and the quiet ones that define our humanity[cite: 1, 24].
-
-[cite_start]Currently, I serve as a **Schmidt-Sciences Visiting Research Scholar** at **IIT Delhi** [cite: 15] [cite_start]and a **Postdoctoral Research Associate** at **Princeton University**[cite: 20, 21]. [cite_start]My work is dedicated to energy systems and geo-spatial modelling, aiming to light a path toward a sustainable, net-zero future for India[cite: 22, 24].
-
----
-
-## 🌿 Research & Thought
-[cite_start]My days are spent navigating the complexities of decarbonization and resource management[cite: 24, 38]. 
-* [cite_start]**Net-Zero India:** Leading downscaling efforts for energy decarbonization[cite: 22].
-* [cite_start]**Geo-spatial GIS:** Mapping the potential of our natural world[cite: 37, 85].
-* [cite_start]**Energy Equality:** Understanding the human side of power consumption[cite: 5, 43].
+## Welcome to the Stillness
+This is a digital garden—a place to slow down. Here, I share brief observations, short fictions, and the occasional rhyme. I hope you find a moment of peace while you're here.
 
 ---
 
-## ✍️ Ink & Echoes
-*Beyond the data, I find solace in stories and the rhythm of words.*
+### 🌿 Short Poems
 
-### A Short Story: The Grid’s Pulse
-The wires hummed differently at dusk. [cite_start]In the village of my youth, electricity wasn't just a utility; it was a guest that arrived unannounced and left without a word[cite: 5]. [cite_start]I watched the yellow glow of a single bulb fight back the vast, purple shadows of the Western Ghats[cite: 63, 69]. It was there I learned that light is not just physics—it is hope, quantified.
+#### The Morning Mist
+The world is wrapped in silver thread,  
+A quiet hush before the day.  
+The city sleeps within its bed,  
+While shadows softly melt away.
 
-### Poem: The Mapmaker
-Lines on a screen,
-[cite_start]A valley turned to pixels and light[cite: 85].
-We trace the wind, we chase the sun,
-Calculating the weight of the night.
-But the earth remains,
-Silent, beneath the layers we build,
-Waiting for the day
-[cite_start]Its promise is finally fulfilled[cite: 49, 50].
+#### Threshold
+One foot in the light,  
+One hand on the latch;  
+The stars are a fire  
+The morning can't catch.
 
 ---
 
-## 🗺️ Technical Toolkit
-* [cite_start]**Modeling:** Macro-Energy Systems, MATLAB, Julia-Jump[cite: 84].
-* [cite_start]**GIS:** QGIS, ArcGIS Pro, FOSS4G[cite: 85].
-* [cite_start]**Analysis:** R, Python, STATA[cite: 86].
+### 📖 Small Stories
+
+**The Clockmaker’s Secret** In a shop filled with ticking hearts, Elias fixed things that didn't want to be found. He didn't just mend gears; he polished memories until they shone like brass. One Tuesday, a woman brought in a watch that ran backward. "I'm not looking for the time," she whispered. "I'm looking for the beginning."
+
+**The Blue Lantern** There is a lighthouse on the edge of the desert. It doesn't warn ships of rocks; it warns travelers of mirages. Its light is a cool, steady blue—the color of water that actually exists.
 
 ---
 
-## 🕊️ Honors
-* [cite_start]**Best PhD Thesis Award**, IIT Bombay (2022)[cite: 8, 9].
-* [cite_start]**Sahyadri Young Ecologist Award** (2014)[cite: 12, 13].
+### ✉️ Let's Connect
+If a particular piece resonated with you, feel free to reach out or browse the [full archive](/archive).
 
----
-
-[Contact me](mailto:ganeshhegde@princeton.edu) / [Google Scholar](https://scholar.google.com/citations?user=YOUR_ID) / [GitHub](https://github.com/ghegde05)
+> *"Silence is not the absence of sound, but the presence of peace."*
