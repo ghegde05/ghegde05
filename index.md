@@ -17,3 +17,7 @@ Additionally, I am affiliated with Transitions Research Goa (https://transitions
 - **Geo-spatial Tools:** QGIS, ArcGIS Pro, Google Earth Engine.
 - **Statistical Analysis:** R, Python, STATA, IBM SPSS.
 - **Specialized Training:** Smart Transmission Grids, Solar PV Grid-Connected Plants, decentralised electrification, SCADA/EMS
+
+{% include_relative _includes/publications.md %}
+
+{% include_relative _includes/services.md %}
