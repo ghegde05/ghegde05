@@ -17,7 +17,7 @@
   </li>
   <li style="margin-bottom: 5px;">Missing Linkages in the Electricity–Water Nexus in Indian Agriculture (<a href="http://dspace.library.iitb.ac.in/xmlui/handle/100/38860">paper</a>)
   </li>
-<ul style="margin:0 0 20px; padding-left: 20px;">
+
 <li style="margin-bottom: 5px;">The uneven expansion of electricity supply in India: The logics of clientelism, incrementalism and maximin (<a href="https://www.sciencedirect.com/science/article/pii/S221462962100219X?dgcid=coauthor">paper</a>)
   </li>
 </ul>
