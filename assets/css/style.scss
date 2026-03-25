@@ -2,3 +2,19 @@
 ---
 
 @import "minimal-light";
+/* Increase Avatar and Header width */
+header {
+    width: 260px !important; /* Default is usually smaller, around 210px */
+}
+
+header .avatar img {
+    width: 200px !important; /* Adjust this number to your liking */
+    height: 200px !important;
+    border-radius: 50%; /* Keeps it circular */
+    object-fit: cover;
+}
+
+/* Adjust the main section to make room for the larger header */
+section {
+    width: calc(100% - 300px) !important;
+}
