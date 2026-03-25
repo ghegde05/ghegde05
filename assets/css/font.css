@@ -3,9 +3,20 @@
 
 body {
   background-color: #fff;
-  padding:0px;
-  font: 16.0px/1.5 Crimson Pro, serif; 
-  color:#595959;
-  font-weight:400;
-  margin:0
+  padding: 0px;
+  /* Increased from 16.0px to 18.0px */
+  font: 18.0px/1.6 Crimson Pro, serif; 
+  color: #595959;
+  font-weight: 400;
+  margin: 0;
+}
+
+/* Increase Heading sizes proportionally */
+h2 {
+    font-size: 1.8rem; /* About Me, Research Interests, etc. */
+    margin-top: 1.5em;
+}
+
+h3 {
+    font-size: 1.4rem;
 }
